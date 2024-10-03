@@ -1,0 +1,4 @@
+D:\2022 - 2026\HOC KI 5\C#\TH Console\BuoiTH1\Bai7\obj\Release\net8.0\Bai7.GeneratedMSBuildEditorConfig.editorconfig
+D:\2022 - 2026\HOC KI 5\C#\TH Console\BuoiTH1\Bai7\obj\Release\net8.0\Bai7.AssemblyInfoInputs.cache
+D:\2022 - 2026\HOC KI 5\C#\TH Console\BuoiTH1\Bai7\obj\Release\net8.0\Bai7.AssemblyInfo.cs
+D:\2022 - 2026\HOC KI 5\C#\TH Console\BuoiTH1\Bai7\obj\Release\net8.0\Bai7.csproj.CoreCompileInputs.cache

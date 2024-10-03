@@ -1,0 +1,14 @@
+D:\2022 - 2026\HOC KI 5\C#\TH Console\BuoiTH1\Bai8\bin\Debug\net8.0\Bai8.exe
+D:\2022 - 2026\HOC KI 5\C#\TH Console\BuoiTH1\Bai8\bin\Debug\net8.0\Bai8.deps.json
+D:\2022 - 2026\HOC KI 5\C#\TH Console\BuoiTH1\Bai8\bin\Debug\net8.0\Bai8.runtimeconfig.json
+D:\2022 - 2026\HOC KI 5\C#\TH Console\BuoiTH1\Bai8\bin\Debug\net8.0\Bai8.dll
+D:\2022 - 2026\HOC KI 5\C#\TH Console\BuoiTH1\Bai8\bin\Debug\net8.0\Bai8.pdb
+D:\2022 - 2026\HOC KI 5\C#\TH Console\BuoiTH1\Bai8\obj\Debug\net8.0\Bai8.GeneratedMSBuildEditorConfig.editorconfig
+D:\2022 - 2026\HOC KI 5\C#\TH Console\BuoiTH1\Bai8\obj\Debug\net8.0\Bai8.AssemblyInfoInputs.cache
+D:\2022 - 2026\HOC KI 5\C#\TH Console\BuoiTH1\Bai8\obj\Debug\net8.0\Bai8.AssemblyInfo.cs
+D:\2022 - 2026\HOC KI 5\C#\TH Console\BuoiTH1\Bai8\obj\Debug\net8.0\Bai8.csproj.CoreCompileInputs.cache
+D:\2022 - 2026\HOC KI 5\C#\TH Console\BuoiTH1\Bai8\obj\Debug\net8.0\Bai8.dll
+D:\2022 - 2026\HOC KI 5\C#\TH Console\BuoiTH1\Bai8\obj\Debug\net8.0\refint\Bai8.dll
+D:\2022 - 2026\HOC KI 5\C#\TH Console\BuoiTH1\Bai8\obj\Debug\net8.0\Bai8.pdb
+D:\2022 - 2026\HOC KI 5\C#\TH Console\BuoiTH1\Bai8\obj\Debug\net8.0\Bai8.genruntimeconfig.cache
+D:\2022 - 2026\HOC KI 5\C#\TH Console\BuoiTH1\Bai8\obj\Debug\net8.0\ref\Bai8.dll

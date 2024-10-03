@@ -1,0 +1,28 @@
+D:\2022 - 2026\HOC KI 5\C#\LT\BuoiTH1\Bai7\obj\Debug\net8.0\Bai7.GeneratedMSBuildEditorConfig.editorconfig
+D:\2022 - 2026\HOC KI 5\C#\LT\BuoiTH1\Bai7\obj\Debug\net8.0\Bai7.AssemblyInfoInputs.cache
+D:\2022 - 2026\HOC KI 5\C#\LT\BuoiTH1\Bai7\obj\Debug\net8.0\Bai7.AssemblyInfo.cs
+D:\2022 - 2026\HOC KI 5\C#\LT\BuoiTH1\Bai7\obj\Debug\net8.0\Bai7.csproj.CoreCompileInputs.cache
+D:\2022 - 2026\HOC KI 5\C#\LT\BuoiTH1\Bai7\bin\Debug\net8.0\Bai7.exe
+D:\2022 - 2026\HOC KI 5\C#\LT\BuoiTH1\Bai7\bin\Debug\net8.0\Bai7.deps.json
+D:\2022 - 2026\HOC KI 5\C#\LT\BuoiTH1\Bai7\bin\Debug\net8.0\Bai7.runtimeconfig.json
+D:\2022 - 2026\HOC KI 5\C#\LT\BuoiTH1\Bai7\bin\Debug\net8.0\Bai7.dll
+D:\2022 - 2026\HOC KI 5\C#\LT\BuoiTH1\Bai7\bin\Debug\net8.0\Bai7.pdb
+D:\2022 - 2026\HOC KI 5\C#\LT\BuoiTH1\Bai7\obj\Debug\net8.0\Bai7.dll
+D:\2022 - 2026\HOC KI 5\C#\LT\BuoiTH1\Bai7\obj\Debug\net8.0\refint\Bai7.dll
+D:\2022 - 2026\HOC KI 5\C#\LT\BuoiTH1\Bai7\obj\Debug\net8.0\Bai7.pdb
+D:\2022 - 2026\HOC KI 5\C#\LT\BuoiTH1\Bai7\obj\Debug\net8.0\Bai7.genruntimeconfig.cache
+D:\2022 - 2026\HOC KI 5\C#\LT\BuoiTH1\Bai7\obj\Debug\net8.0\ref\Bai7.dll
+D:\2022 - 2026\HOC KI 5\C#\TH Console\BuoiTH1\Bai7\obj\Debug\net8.0\Bai7.GeneratedMSBuildEditorConfig.editorconfig
+D:\2022 - 2026\HOC KI 5\C#\TH Console\BuoiTH1\Bai7\obj\Debug\net8.0\Bai7.AssemblyInfoInputs.cache
+D:\2022 - 2026\HOC KI 5\C#\TH Console\BuoiTH1\Bai7\obj\Debug\net8.0\Bai7.AssemblyInfo.cs
+D:\2022 - 2026\HOC KI 5\C#\TH Console\BuoiTH1\Bai7\obj\Debug\net8.0\Bai7.csproj.CoreCompileInputs.cache
+D:\2022 - 2026\HOC KI 5\C#\TH Console\BuoiTH1\Bai7\obj\Debug\net8.0\Bai7.dll
+D:\2022 - 2026\HOC KI 5\C#\TH Console\BuoiTH1\Bai7\obj\Debug\net8.0\refint\Bai7.dll
+D:\2022 - 2026\HOC KI 5\C#\TH Console\BuoiTH1\Bai7\obj\Debug\net8.0\Bai7.pdb
+D:\2022 - 2026\HOC KI 5\C#\TH Console\BuoiTH1\Bai7\bin\Debug\net8.0\Bai7.exe
+D:\2022 - 2026\HOC KI 5\C#\TH Console\BuoiTH1\Bai7\bin\Debug\net8.0\Bai7.deps.json
+D:\2022 - 2026\HOC KI 5\C#\TH Console\BuoiTH1\Bai7\bin\Debug\net8.0\Bai7.runtimeconfig.json
+D:\2022 - 2026\HOC KI 5\C#\TH Console\BuoiTH1\Bai7\bin\Debug\net8.0\Bai7.dll
+D:\2022 - 2026\HOC KI 5\C#\TH Console\BuoiTH1\Bai7\bin\Debug\net8.0\Bai7.pdb
+D:\2022 - 2026\HOC KI 5\C#\TH Console\BuoiTH1\Bai7\obj\Debug\net8.0\Bai7.genruntimeconfig.cache
+D:\2022 - 2026\HOC KI 5\C#\TH Console\BuoiTH1\Bai7\obj\Debug\net8.0\ref\Bai7.dll
