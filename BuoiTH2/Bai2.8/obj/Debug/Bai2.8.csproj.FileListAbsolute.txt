@@ -1,0 +1,30 @@
+D:\2022 - 2026\HOC KI 5\C#\TH Console\DTH225770_NguyenHoangThi\BuoiTH2\Bai2.8\bin\Debug\Bai2.8.exe.config
+D:\2022 - 2026\HOC KI 5\C#\TH Console\DTH225770_NguyenHoangThi\BuoiTH2\Bai2.8\bin\Debug\Bai2.8.exe
+D:\2022 - 2026\HOC KI 5\C#\TH Console\DTH225770_NguyenHoangThi\BuoiTH2\Bai2.8\bin\Debug\Bai2.8.pdb
+D:\2022 - 2026\HOC KI 5\C#\TH Console\DTH225770_NguyenHoangThi\BuoiTH2\Bai2.8\obj\Debug\Bai2.8.csproj.AssemblyReference.cache
+D:\2022 - 2026\HOC KI 5\C#\TH Console\DTH225770_NguyenHoangThi\BuoiTH2\Bai2.8\obj\Debug\Bai2._8.Form1.resources
+D:\2022 - 2026\HOC KI 5\C#\TH Console\DTH225770_NguyenHoangThi\BuoiTH2\Bai2.8\obj\Debug\Bai2._8.Properties.Resources.resources
+D:\2022 - 2026\HOC KI 5\C#\TH Console\DTH225770_NguyenHoangThi\BuoiTH2\Bai2.8\obj\Debug\Bai2.8.csproj.GenerateResource.cache
+D:\2022 - 2026\HOC KI 5\C#\TH Console\DTH225770_NguyenHoangThi\BuoiTH2\Bai2.8\obj\Debug\Bai2.8.csproj.CoreCompileInputs.cache
+D:\2022 - 2026\HOC KI 5\C#\TH Console\DTH225770_NguyenHoangThi\BuoiTH2\Bai2.8\obj\Debug\Bai2.8.exe
+D:\2022 - 2026\HOC KI 5\C#\TH Console\DTH225770_NguyenHoangThi\BuoiTH2\Bai2.8\obj\Debug\Bai2.8.pdb
+D:\2022 - 2026\HOC KI 5\C#\TH\DTH225770_NguyenHoangThi\BuoiTH2\Bai2.8\bin\Debug\Bai2.8.exe.config
+D:\2022 - 2026\HOC KI 5\C#\TH\DTH225770_NguyenHoangThi\BuoiTH2\Bai2.8\bin\Debug\Bai2.8.exe
+D:\2022 - 2026\HOC KI 5\C#\TH\DTH225770_NguyenHoangThi\BuoiTH2\Bai2.8\bin\Debug\Bai2.8.pdb
+D:\2022 - 2026\HOC KI 5\C#\TH\DTH225770_NguyenHoangThi\BuoiTH2\Bai2.8\obj\Debug\Bai2.8.csproj.AssemblyReference.cache
+D:\2022 - 2026\HOC KI 5\C#\TH\DTH225770_NguyenHoangThi\BuoiTH2\Bai2.8\obj\Debug\Bai2._8.Form1.resources
+D:\2022 - 2026\HOC KI 5\C#\TH\DTH225770_NguyenHoangThi\BuoiTH2\Bai2.8\obj\Debug\Bai2._8.Properties.Resources.resources
+D:\2022 - 2026\HOC KI 5\C#\TH\DTH225770_NguyenHoangThi\BuoiTH2\Bai2.8\obj\Debug\Bai2.8.csproj.GenerateResource.cache
+D:\2022 - 2026\HOC KI 5\C#\TH\DTH225770_NguyenHoangThi\BuoiTH2\Bai2.8\obj\Debug\Bai2.8.csproj.CoreCompileInputs.cache
+D:\2022 - 2026\HOC KI 5\C#\TH\DTH225770_NguyenHoangThi\BuoiTH2\Bai2.8\obj\Debug\Bai2.8.exe
+D:\2022 - 2026\HOC KI 5\C#\TH\DTH225770_NguyenHoangThi\BuoiTH2\Bai2.8\obj\Debug\Bai2.8.pdb
+D:\2022 - 2026\HOC KI 5\C#\TH\DotNET_TH\BuoiTH2\Bai2.8\bin\Debug\Bai2.8.exe.config
+D:\2022 - 2026\HOC KI 5\C#\TH\DotNET_TH\BuoiTH2\Bai2.8\bin\Debug\Bai2.8.exe
+D:\2022 - 2026\HOC KI 5\C#\TH\DotNET_TH\BuoiTH2\Bai2.8\bin\Debug\Bai2.8.pdb
+D:\2022 - 2026\HOC KI 5\C#\TH\DotNET_TH\BuoiTH2\Bai2.8\obj\Debug\Bai2.8.csproj.AssemblyReference.cache
+D:\2022 - 2026\HOC KI 5\C#\TH\DotNET_TH\BuoiTH2\Bai2.8\obj\Debug\Bai2._8.frmMain.resources
+D:\2022 - 2026\HOC KI 5\C#\TH\DotNET_TH\BuoiTH2\Bai2.8\obj\Debug\Bai2._8.Properties.Resources.resources
+D:\2022 - 2026\HOC KI 5\C#\TH\DotNET_TH\BuoiTH2\Bai2.8\obj\Debug\Bai2.8.csproj.GenerateResource.cache
+D:\2022 - 2026\HOC KI 5\C#\TH\DotNET_TH\BuoiTH2\Bai2.8\obj\Debug\Bai2.8.csproj.CoreCompileInputs.cache
+D:\2022 - 2026\HOC KI 5\C#\TH\DotNET_TH\BuoiTH2\Bai2.8\obj\Debug\Bai2.8.exe
+D:\2022 - 2026\HOC KI 5\C#\TH\DotNET_TH\BuoiTH2\Bai2.8\obj\Debug\Bai2.8.pdb
