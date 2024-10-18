@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2022 - 2026\\HOC KI 5\\C#\\TH\\BuoiTH4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{170FA9A2-D5F0-4824-93C1-0EF889916672}|Bai3\\Bai3.csproj|d:\\2022 - 2026\\hoc ki 5\\c#\\th\\buoith4\\bai3\\frmtinhtong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170FA9A2-D5F0-4824-93C1-0EF889916672}|Bai3\\Bai3.csproj|solutionrelative:bai3\\frmtinhtong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170FA9A2-D5F0-4824-93C1-0EF889916672}|Bai3\\Bai3.csproj|d:\\2022 - 2026\\hoc ki 5\\c#\\th\\buoith4\\bai3\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170FA9A2-D5F0-4824-93C1-0EF889916672}|Bai3\\Bai3.csproj|solutionrelative:bai3\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170FA9A2-D5F0-4824-93C1-0EF889916672}|Bai3\\Bai3.csproj|d:\\2022 - 2026\\hoc ki 5\\c#\\th\\buoith4\\bai3\\frmtinhtong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{170FA9A2-D5F0-4824-93C1-0EF889916672}|Bai3\\Bai3.csproj|solutionrelative:bai3\\frmtinhtong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170FA9A2-D5F0-4824-93C1-0EF889916672}|Bai3\\Bai3.csproj|d:\\2022 - 2026\\hoc ki 5\\c#\\th\\buoith4\\bai3\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{170FA9A2-D5F0-4824-93C1-0EF889916672}|Bai3\\Bai3.csproj|solutionrelative:bai3\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170FA9A2-D5F0-4824-93C1-0EF889916672}|Bai3\\Bai3.csproj|D:\\2022 - 2026\\HOC KI 5\\C#\\TH\\BuoiTH4\\bai3\\frmtimmax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{170FA9A2-D5F0-4824-93C1-0EF889916672}|Bai3\\Bai3.csproj|solutionrelative:bai3\\frmtimmax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmTinhTong.cs",
+              "DocumentMoniker": "D:\\2022 - 2026\\HOC KI 5\\C#\\TH\\BuoiTH4\\Bai3\\frmTinhTong.cs",
+              "RelativeDocumentMoniker": "Bai3\\frmTinhTong.cs",
+              "ToolTip": "D:\\2022 - 2026\\HOC KI 5\\C#\\TH\\BuoiTH4\\Bai3\\frmTinhTong.cs",
+              "RelativeToolTip": "Bai3\\frmTinhTong.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwBUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T01:53:38.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmTinhTong.cs [Design]",
+              "DocumentMoniker": "D:\\2022 - 2026\\HOC KI 5\\C#\\TH\\BuoiTH4\\Bai3\\frmTinhTong.cs",
+              "RelativeDocumentMoniker": "Bai3\\frmTinhTong.cs",
+              "ToolTip": "D:\\2022 - 2026\\HOC KI 5\\C#\\TH\\BuoiTH4\\Bai3\\frmTinhTong.cs [Design]",
+              "RelativeToolTip": "Bai3\\frmTinhTong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T01:53:28.404Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "D:\\2022 - 2026\\HOC KI 5\\C#\\TH\\BuoiTH4\\Bai3\\frmMain.cs",
+              "RelativeDocumentMoniker": "Bai3\\frmMain.cs",
+              "ToolTip": "D:\\2022 - 2026\\HOC KI 5\\C#\\TH\\BuoiTH4\\Bai3\\frmMain.cs",
+              "RelativeToolTip": "Bai3\\frmMain.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAD4v0gAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T01:53:18.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmTimMax.cs [Design]",
+              "DocumentMoniker": "D:\\2022 - 2026\\HOC KI 5\\C#\\TH\\BuoiTH4\\Bai3\\frmTimMax.cs",
+              "RelativeDocumentMoniker": "Bai3\\frmTimMax.cs",
+              "ToolTip": "D:\\2022 - 2026\\HOC KI 5\\C#\\TH\\BuoiTH4\\Bai3\\frmTimMax.cs [Design]",
+              "RelativeToolTip": "Bai3\\frmTimMax.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:52:33.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "D:\\2022 - 2026\\HOC KI 5\\C#\\TH\\BuoiTH4\\Bai3\\frmMain.cs",
+              "RelativeDocumentMoniker": "Bai3\\frmMain.cs",
+              "ToolTip": "D:\\2022 - 2026\\HOC KI 5\\C#\\TH\\BuoiTH4\\Bai3\\frmMain.cs [Design]",
+              "RelativeToolTip": "Bai3\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T11:43:09.445Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 84,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
