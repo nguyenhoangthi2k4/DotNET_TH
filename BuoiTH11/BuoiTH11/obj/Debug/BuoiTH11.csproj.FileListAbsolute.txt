@@ -1,0 +1,12 @@
+D:\2022 - 2026\HOC KI 5\C#\TH\BuoiTH11\BuoiTH11\bin\Debug\QLHS.mdf
+D:\2022 - 2026\HOC KI 5\C#\TH\BuoiTH11\BuoiTH11\bin\Debug\QLHS_log.ldf
+D:\2022 - 2026\HOC KI 5\C#\TH\BuoiTH11\BuoiTH11\bin\Debug\BuoiTH11.exe.config
+D:\2022 - 2026\HOC KI 5\C#\TH\BuoiTH11\BuoiTH11\bin\Debug\BuoiTH11.exe
+D:\2022 - 2026\HOC KI 5\C#\TH\BuoiTH11\BuoiTH11\bin\Debug\BuoiTH11.pdb
+D:\2022 - 2026\HOC KI 5\C#\TH\BuoiTH11\BuoiTH11\obj\Debug\BuoiTH11.csproj.AssemblyReference.cache
+D:\2022 - 2026\HOC KI 5\C#\TH\BuoiTH11\BuoiTH11\obj\Debug\BuoiTH11.Form1.resources
+D:\2022 - 2026\HOC KI 5\C#\TH\BuoiTH11\BuoiTH11\obj\Debug\BuoiTH11.Properties.Resources.resources
+D:\2022 - 2026\HOC KI 5\C#\TH\BuoiTH11\BuoiTH11\obj\Debug\BuoiTH11.csproj.GenerateResource.cache
+D:\2022 - 2026\HOC KI 5\C#\TH\BuoiTH11\BuoiTH11\obj\Debug\BuoiTH11.csproj.CoreCompileInputs.cache
+D:\2022 - 2026\HOC KI 5\C#\TH\BuoiTH11\BuoiTH11\obj\Debug\BuoiTH11.exe
+D:\2022 - 2026\HOC KI 5\C#\TH\BuoiTH11\BuoiTH11\obj\Debug\BuoiTH11.pdb

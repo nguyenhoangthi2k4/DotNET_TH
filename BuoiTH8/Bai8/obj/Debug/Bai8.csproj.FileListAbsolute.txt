@@ -1,0 +1,13 @@
+D:\2022 - 2026\HOC KI 5\C#\TH\BuoiTH8\Bai8\bin\Debug\Bai8.exe.config
+D:\2022 - 2026\HOC KI 5\C#\TH\BuoiTH8\Bai8\bin\Debug\Bai8.exe
+D:\2022 - 2026\HOC KI 5\C#\TH\BuoiTH8\Bai8\bin\Debug\Bai8.pdb
+D:\2022 - 2026\HOC KI 5\C#\TH\BuoiTH8\Bai8\obj\Debug\Bai8.csproj.AssemblyReference.cache
+D:\2022 - 2026\HOC KI 5\C#\TH\BuoiTH8\Bai8\obj\Debug\Bai8.Properties.Resources.resources
+D:\2022 - 2026\HOC KI 5\C#\TH\BuoiTH8\Bai8\obj\Debug\Bai8.csproj.GenerateResource.cache
+D:\2022 - 2026\HOC KI 5\C#\TH\BuoiTH8\Bai8\obj\Debug\Bai8.csproj.CoreCompileInputs.cache
+D:\2022 - 2026\HOC KI 5\C#\TH\BuoiTH8\Bai8\obj\Debug\Bai8.exe
+D:\2022 - 2026\HOC KI 5\C#\TH\BuoiTH8\Bai8\obj\Debug\Bai8.pdb
+D:\2022 - 2026\HOC KI 5\C#\TH\BuoiTH8\Bai8\obj\Debug\Bai8.frmHinhCN.resources
+D:\2022 - 2026\HOC KI 5\C#\TH\BuoiTH8\Bai8\obj\Debug\Bai8.frmHinhTron.resources
+D:\2022 - 2026\HOC KI 5\C#\TH\BuoiTH8\Bai8\obj\Debug\Bai8.frmMain.resources
+D:\2022 - 2026\HOC KI 5\C#\TH\BuoiTH8\Bai8\obj\Debug\Bai8.frmHinhVuong.resources

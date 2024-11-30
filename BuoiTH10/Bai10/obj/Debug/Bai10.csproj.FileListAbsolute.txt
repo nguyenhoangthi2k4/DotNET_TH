@@ -1,0 +1,12 @@
+D:\2022 - 2026\HOC KI 5\C#\TH\BuoiTH10\Bai10\bin\Debug\QLNV.mdf
+D:\2022 - 2026\HOC KI 5\C#\TH\BuoiTH10\Bai10\bin\Debug\QLNV_log.ldf
+D:\2022 - 2026\HOC KI 5\C#\TH\BuoiTH10\Bai10\bin\Debug\Bai10.exe.config
+D:\2022 - 2026\HOC KI 5\C#\TH\BuoiTH10\Bai10\bin\Debug\Bai10.exe
+D:\2022 - 2026\HOC KI 5\C#\TH\BuoiTH10\Bai10\bin\Debug\Bai10.pdb
+D:\2022 - 2026\HOC KI 5\C#\TH\BuoiTH10\Bai10\obj\Debug\Bai10.csproj.AssemblyReference.cache
+D:\2022 - 2026\HOC KI 5\C#\TH\BuoiTH10\Bai10\obj\Debug\Bai10.Form1.resources
+D:\2022 - 2026\HOC KI 5\C#\TH\BuoiTH10\Bai10\obj\Debug\Bai10.Properties.Resources.resources
+D:\2022 - 2026\HOC KI 5\C#\TH\BuoiTH10\Bai10\obj\Debug\Bai10.csproj.GenerateResource.cache
+D:\2022 - 2026\HOC KI 5\C#\TH\BuoiTH10\Bai10\obj\Debug\Bai10.csproj.CoreCompileInputs.cache
+D:\2022 - 2026\HOC KI 5\C#\TH\BuoiTH10\Bai10\obj\Debug\Bai10.exe
+D:\2022 - 2026\HOC KI 5\C#\TH\BuoiTH10\Bai10\obj\Debug\Bai10.pdb
